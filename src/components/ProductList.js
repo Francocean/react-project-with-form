@@ -22,7 +22,7 @@ export default class ProductList extends Component {
                })
               }}
             </ProductConsumer>
-            <MyComment />
+            {/* <MyComment />  This is a component for comment section in our e-commerce app. You can uncomment this and run npm run build, then npm start to start the dev server*/}
           </div>
         </div>
      </div>
